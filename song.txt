@@ -1,6 +1,7 @@
 Я солдат.
 Я не спал пять лет и у меня под глазами мешки.
 Я сам не видел, но мне так сказали.
+<<<<<<< HEAD
 Я солдат.
 еще строчка песни
 и еще 
@@ -15,3 +16,6 @@ some content
 end more
 bfsdbfhjsdjhfsdfhsdvf
 fsdfbsdfsdfvds
+=======
+Я солдат.
+>>>>>>> parent of 6c6b1a0... Update song.txt
